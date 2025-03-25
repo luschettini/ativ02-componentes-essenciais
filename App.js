@@ -7,7 +7,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Lindas Tulipas do meu Jardim! 🌷</Text>
       <StatusBar style="auto" />
-      <Image source={require('./assets/image.png')}
+      <Image source={require('./assets/tulipa.png')}
         style={styles.image}
       />
     </View>
